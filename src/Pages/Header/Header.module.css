@@ -1,0 +1,23 @@
+.header{
+  grid-area: h;
+  background-color: #137b1d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.header img{
+  width: 60px;
+}
+
+.headerNav{
+  display:flex;
+  flex-direction: row;
+  gap:20px;
+  margin: 5px;
+
+}
+.headerNav a{
+  color: aliceblue;
+}

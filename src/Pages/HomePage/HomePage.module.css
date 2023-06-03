@@ -1,0 +1,14 @@
+.header{
+  grid-area: h;
+  background-color: #b1e5b6;
+  margin: 25px
+}
+.img{
+  width: 60px;
+}
+.wrapper{
+  padding: 20px;
+  display:flex;
+  flex-direction: row;
+  gap:20px
+}
