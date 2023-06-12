@@ -23,8 +23,7 @@
    min-width: 100vw;
    min-height: 100vh;
     padding: 90px 0;
-    
-    margin: -120vh 0;
+
     
     position: absolute;
     background-color: #33303088;
@@ -40,4 +39,12 @@
 }
 .forms h3{
     margin-top: 0;
+}
+
+.initialClass {
+    color: red
+}
+
+.newClass {
+    color: rgb(39, 160, 18) !important
 }

@@ -4,7 +4,7 @@ import { useParams} from "react-router-dom"
 const DetailComponent= ()=>{
         const { id } = useParams()
     return(<>
-         <h1> Deteils {id} </h1>
+         <h1> Details {id} </h1>
          <p>Text here</p>
          </>
     )
